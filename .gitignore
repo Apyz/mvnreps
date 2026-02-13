@@ -8,6 +8,7 @@
 *.java
 *.cs
 *.exe
+mvnreps
 # 排除编译出来的文件夹
 bin/
 obj/
